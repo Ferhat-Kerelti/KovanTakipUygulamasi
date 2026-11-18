@@ -1,1 +1,1 @@
-# KovanTakipUygulamasi
+Problem: Arıcılar kovan bakımlarını arazide yaparken, ellerindeki eldiven ve propolis bulaşığı nedeniyle kâğıt-kalem kullanarak hastalık veya oğul durumunu not almakta zorlanmaktadır. Bu uygulama kovan verilerini internetsiz ortamda hızlıca kaydetmeyi sağlar.
