@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.KovanTakipUygulamasi" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/amber_primary</item>
+        <item name="android:windowBackground">@color/amber_bg</item>
+        <item name="android:statusBarColor">@color/amber_bg</item>
+        <item name="android:navigationBarColor">@color/amber_bg</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>
